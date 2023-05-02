@@ -1,6 +1,6 @@
 ### :man_technologist: Обо мне:
 
-Я веб разработчик с общим опытом в программировании - 3 года, коммерческого опыта 1+ год. Программированием начал увлекаться в 11 классе, после чего поступил в КНИТУ-КАИ на направление "Программная инженерия". Сейчас обучаюсь на 3ем курсе. Параллельно работаю в веб-студии NETWORK AGENCY. В коммерческой разработке создавал landing и multi page на стеке HTML, CSS, SCSS, Javascript и  SPA на стеке React, Redux-toolkit, Typescript. Работал в одиночку и в команде из нескольких разрабочиков. Для личных нужд создавал клиент-серверное приложение на стеке React, Nodejs, Express, PostgreSQL.
+Я веб разработчик с общим опытом в программировании - 3 года, коммерческого опыта 5 месяцев. Программированием начал увлекаться в 11 классе, после чего поступил в КНИТУ-КАИ на направление "Программная инженерия". Сейчас обучаюсь на 3ем курсе. Параллельно работаю в ИП NETWORK AGENCY. В коммерческой разработке создавал landing и multi page на стеке HTML, CSS, SCSS, Javascript и  SPA на стеке React, Redux-toolkit, Typescript. Работал в одиночку и в команде из нескольких разрабочиков. Для личных нужд создавал клиент-серверное приложение на стеке React, Nodejs, Express, PostgreSQL.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-vladmingaleev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vlad_mnglv) [![mail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.mingaleev01@mail.ru)
 
